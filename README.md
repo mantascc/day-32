@@ -1,5 +1,5 @@
 # Entropy Patterns
 
-A visual exploration of creative and cognitive entropy over time. This project visualizes five distinct oscillation patterns between order and chaos, showing how different creative rhythms balance exploration with integration. Includes an interactive entropy scale framework measuring cognitive load across multiple dimensions.
+A visual taxonomy mapping the oscillation patterns of creative work over time, showing how different rhythms of cognitive load (from recovery to danger zones) interact with the quality of thinking (divergence, exploration, abstraction) to reveal sustainable versus pathological modes of making.
 
 [View live demo](https://yourusername.github.io/day-32/)

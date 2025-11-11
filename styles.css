@@ -19,6 +19,29 @@ body {
   margin: 0 auto;
 }
 
+.site-header {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.site-title {
+  font-family: 'Instrument Serif', serif;
+  font-size: 64px;
+  font-weight: 400;
+  margin: 0 0 1.5rem 0;
+  color: #fff;
+  letter-spacing: -0.02em;
+}
+
+.site-description {
+  font-size: 11px;
+  line-height: 1.7;
+  color: #888;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
 .tabs {
   display: flex;
   gap: 0.5rem;
@@ -168,6 +191,14 @@ svg {
     padding: 2rem 1.5rem;
   }
 
+  .site-title {
+    font-size: 48px;
+  }
+
+  .site-description {
+    font-size: 12px;
+  }
+
   .viz-title {
     font-size: 24px;
     margin-bottom: 2rem;
@@ -209,6 +240,19 @@ svg {
 @media (max-width: 480px) {
   body {
     padding: 1.5rem 1rem;
+  }
+
+  .site-title {
+    font-size: 36px;
+  }
+
+  .site-description {
+    font-size: 11px;
+    line-height: 1.6;
+  }
+
+  .site-header {
+    margin-bottom: 2rem;
   }
 
   .viz-title {
